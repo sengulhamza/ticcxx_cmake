@@ -3,7 +3,7 @@
 #
 
 set(sources
-    ${CMAKE_CURRENT_SOURCE_DIR}/app/src/main_tirtos.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/core/startup.c
 )
 
 include_directories(

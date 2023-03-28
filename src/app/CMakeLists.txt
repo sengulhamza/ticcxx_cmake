@@ -1,7 +1,6 @@
 set(sources
     src/main_tirtos.c
     src/CC1310_LAUNCHXL.c
-    src/ccfg.c
     src/uartecho.c
 )
 
